@@ -40,3 +40,5 @@
     const sum = a + b;
     return sum;
   }
+
+  export { subtract } from "./subtract";
